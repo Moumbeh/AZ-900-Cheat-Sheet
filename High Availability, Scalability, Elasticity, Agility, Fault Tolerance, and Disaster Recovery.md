@@ -1,25 +1,29 @@
-Cloud Computing
+**Cloud Computing**
 Service delivery model over the internet (cloud). This includes, but is not limited to
 
-compute power meaning servers such as Windows, Linux, hosting environments, etc.
+* **compute power** meaning servers such as Windows, Linux, hosting environments, etc.
 
-storage like files and/or databases
+* **storage** like files and/or databases
 
-networking in Azure, but also outside when connecting to your company network
+* **networking** in Azure, but also outside when connecting to your company network
 
-Analytics services for visualisation and telemetry data
+* **Analytics** services for visualisation and telemetry data
 
-Key concepts
-scalability is the ability to scale, so allocate and deallocate resources at any time
+**Key concepts**
+* Scalability is the ability to scale, so allocate and deallocate resources at any time
 
-elasticity is the ability to scale dynamically
+* Elasticity is the ability to scale dynamically
 
-agility is the ability to react fast (scale quickly)
+* Agility is the ability to react fast (scale quickly)
 
-fault tolerance is the ability to maintain system uptime while physical and service component failures happen
+* Fault tolerance is the ability to maintain system uptime while physical and service component failures happen
 
-disaster recovery is the process and design principle which allows a system to recover from natural or human-induced disasters
+* Disaster recovery is the process and design principle which allows a system to recover from natural or human-induced disasters
 
-high availability is the agreed level of operational uptime for the system. It is a simple calculation of system uptime versus whole lifetime of the system.
+* High availability is the agreed-upon level of operational uptime for the system. It is a simple calculation of system uptime versus the system's lifetime.
 
-availability = uptime/(uptime + downtime)
+> availability = uptime/(uptime + downtime)
+
+**References**
+https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery
+https://en.wikipedia.org/wiki/Cloud_computing#Characteristics
