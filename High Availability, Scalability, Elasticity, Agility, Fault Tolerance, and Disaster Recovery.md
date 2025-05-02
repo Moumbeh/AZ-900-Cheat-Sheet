@@ -1,4 +1,5 @@
 **Cloud Computing**
+
 Service delivery model over the internet (cloud). This includes, but is not limited to
 
 * **compute power** meaning servers such as Windows, Linux, hosting environments, etc.
